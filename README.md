@@ -1,1 +1,1 @@
-here this project is simple Logistic regressiong
+here this project is simple Logistic regressiong_
