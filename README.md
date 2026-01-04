@@ -22,10 +22,19 @@ This model is helpful for:
 ```
  Insurance Buyer Prediction from Age and Income
 │
-├── logistic_regression_pattern.ipynb     
-├── insurance_model_age.pkl               
+├── Code/
+    └── logistic_regression_pattern.ipynb     
+├── Model/
+    └── insurance_model_age.pkl
+    └── insurance__buyer.pkl
+    └── insurance_buyer.pkl
 ├── data/                                 
 │   └── <dataset included inside .ipynb>
+├── static/
+    └── design.css
+├── template
+    └── UI_.html
+├── controller.py
 ├── README.md                             
 ```
 
